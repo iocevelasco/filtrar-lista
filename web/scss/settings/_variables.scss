@@ -1,0 +1,41 @@
+// Path font
+
+$gl-font-path: "/font/"!default;
+
+//Custom colors
+$clear :                transparent;
+$white :               #FFF;
+$black :               #333;
+$grey-dark:            #666666;
+$gray-medium:          #999999;
+$gray-light:           #EEEEEE;
+$primary:              #FFE600;
+$blue-bg:              #2F83FE; 
+$green-bg:             #1ED760;
+$border-color:         0 rgba(0,0,0,.2);
+$shadowOne:            0 1px 3px 0 rgba(0,0,0,.3);
+
+// Font primary
+
+$font-primary :     'Proxima Nova', sans-serif; 
+
+//Font Size
+
+$font-xxsml:                        12px;
+$font-xsml:                         14px;
+$font-smal:                         16px;
+$font-md:                           18px; 
+$font-lg:                           24px;
+$font-xlg:                          28px;
+$font-xxlg:                         46px;
+
+//Font Weitgh 
+
+$font-weight-light:                300; 
+$font-weight-regular:              600; 
+$font-weight-bold:                 900; 
+
+$space-sm:                      8px;
+$space-md:                     16px;
+$space-lg:                     32px;
+$no-space:                      0px;

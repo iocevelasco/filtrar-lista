@@ -1,0 +1,11 @@
+.list--products{
+    margin-top: $space-md;
+    .list--products__item{
+        display: flex;
+        justify-content: space-between;
+        p{
+            width: 25%;
+            margin-bottom: 0;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+.ui-layout{
+    z-index: 1;
+    margin-bottom: 0;
+    border-radius: 4px;
+    border-top: 0;
+    box-shadow: $shadowOne;
+    display: flex;
+    flex-direction: column;
+    background-color: $white;
+    padding: $space-md;
+}
+.ui-wrapper{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
